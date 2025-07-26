@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransRD.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3fa073e267a4dde999471a5c365c881ab26404fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8bc5c966d9459e55517fbecf5037894930a6090a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransRD.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransRD.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
