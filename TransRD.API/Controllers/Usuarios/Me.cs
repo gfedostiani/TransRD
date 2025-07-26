@@ -12,14 +12,14 @@ namespace TransRD.API.Controllers.Usuarios
   {
     public TransRDDbController TransRDDb = new TransRDDbController();
     [HttpGet]
-    public ActionResult Post([FromBody] int _id)
+    public ActionResult Get(int _id)
     {
       Usuario? usuario = TransRDDb._context
         .Usuario
         .Where(u => u.usuario_id == _id)
         .FirstOrDefault();
 
-      if (usuario == null) return BadRequest("That's not a valid user.");
+      if (usuario == null) return BadRequest("You're not logged in.");
       return Ok(usuario);
     }
     [HttpPut]
@@ -32,8 +32,13 @@ namespace TransRD.API.Controllers.Usuarios
 
       if (usuario == null) return BadRequest("User Doesn't Exist");
 
-      TransRDDb._context.Usuario
-        .Attach(_usuario);
+      usuario.nombre = _usuario.nombre;
+      usuario.email = _usuario.email;
+      usuario.estado = _usuario.estado ?? "Activo";
+      usuario.telefono = _usuario.telefono;
+      usuario.contraseña = _usuario.contraseña;
+
+      TransRDDb._context.Usuario.Update(usuario);
       TransRDDb._context.SaveChanges();
       //
       return Ok("Updated User!");

@@ -48,8 +48,40 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TransRD.API.Controllers.Usuarios.Me",
+    "ContainingType": "TransRD.API.Controllers.Auth.Roles",
+    "Method": "Get",
+    "RelativePath": "auth/Roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TransRD.API.Controllers.Usuarios.Foto",
     "Method": "Post",
+    "RelativePath": "usuarios/Foto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fotoData",
+        "Type": "TransRD.API.Controllers.Usuarios.FotoData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TransRD.API.Controllers.Usuarios.Me",
+    "Method": "Get",
     "RelativePath": "usuarios/Me",
     "HttpMethod": "GET",
     "IsController": true,
@@ -58,7 +90,7 @@
       {
         "Name": "_id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

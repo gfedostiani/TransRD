@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransRD.Infraestructura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc78d782e7063c996be02400cb782f811a9ad35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fa073e267a4dde999471a5c365c881ab26404fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransRD.Infraestructura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransRD.Infraestructura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,5 +17,7 @@ namespace TransRD.Infraestructura.Models
         public string? telefono { get; set; }
         public DateTime? fecha_registro { get; set; }
         public string? estado { get; set; }
+        public string? foto { get; set; }
+        public string? roles { get; set; }
     }
 }

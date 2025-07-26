@@ -26,7 +26,12 @@ namespace TransRD.API.Controllers.Auth
       {
         try
         {
-          TransRDDb._context.Usuario.Add(new Usuario { nombre = User.Name, email = User.Email, contraseña = User.Password });
+          TransRDDb._context.Usuario.Add(new Usuario { 
+            nombre = User.Name, 
+            email = User.Email, 
+            contraseña = User.Password, 
+            estado = "Activo" 
+          });
           TransRDDb._context.SaveChanges();
           return Ok("Ok");
         } 
