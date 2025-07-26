@@ -1,0 +1,11 @@
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.AssemblyInfoInputs.cache
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.AssemblyInfo.cs
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.csproj.CoreCompileInputs.cache
+D:\Docs\fedo\TransRD.Infraestructura\bin\Debug\net9.0\TransRD.Infraestructura.deps.json
+D:\Docs\fedo\TransRD.Infraestructura\bin\Debug\net9.0\TransRD.Infraestructura.dll
+D:\Docs\fedo\TransRD.Infraestructura\bin\Debug\net9.0\TransRD.Infraestructura.pdb
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.dll
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\refint\TransRD.Infraestructura.dll
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.pdb
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\ref\TransRD.Infraestructura.dll

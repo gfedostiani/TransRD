@@ -1,0 +1,276 @@
+is_global = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = true
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.RootNamespace = TransRD
+build_property.ProjectDir = D:\Docs\fedo\TransRD.App\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Docs/fedo/TransRD.App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Docs/fedo/TransRD.App/FrontEnd/Controls/PasswordEntry.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.FrontEnd.Controls.PasswordEntry.xaml
+build_metadata.AdditionalFiles.TargetPath = FrontEnd\Controls\PasswordEntry.xaml
+build_metadata.AdditionalFiles.RelativePath = FrontEnd\Controls\PasswordEntry.xaml
+
+[D:/Docs/fedo/TransRD.App/FrontEnd/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.FrontEnd.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FrontEnd\Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FrontEnd\Views\LoginPage.xaml
+
+[D:/Docs/fedo/TransRD.App/FrontEnd/Views/RecuperarClavePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.FrontEnd.Views.RecuperarClavePage.xaml
+build_metadata.AdditionalFiles.TargetPath = FrontEnd\Views\RecuperarClavePage.xaml
+build_metadata.AdditionalFiles.RelativePath = FrontEnd\Views\RecuperarClavePage.xaml
+
+[D:/Docs/fedo/TransRD.App/FrontEnd/Views/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.FrontEnd.Views.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FrontEnd\Views\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FrontEnd\Views\RegisterPage.xaml
+
+[D:/Docs/fedo/TransRD.App/FrontEnd/Views/SplashPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.FrontEnd.Views.SplashPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FrontEnd\Views\SplashPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FrontEnd\Views\SplashPage.xaml
+
+[D:/Docs/fedo/TransRD.App/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Docs/fedo/TransRD.App/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-grid.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-grid.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-grid.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-grid.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-grid.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-reboot.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-reboot.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-reboot.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-reboot.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-reboot.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-utilities.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-utilities.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-utilities.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap-utilities.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap-utilities.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.contentFiles.any.any.wwwroot.css.bootstrap.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-grid.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-grid.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-grid.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-grid.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-grid.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-grid.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-grid.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-grid.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-grid.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-reboot.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-reboot.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-reboot.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-reboot.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-reboot.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-reboot.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-reboot.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-reboot.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-reboot.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-utilities.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-utilities.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-utilities.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-utilities.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-utilities.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-utilities.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap-utilities.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap-utilities.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap-utilities.rtl.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap.min.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap.rtl.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap.rtl.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap.rtl.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap.rtl.css
+
+[D:/Docs/fedo/TransRD.App/packages/bootstrap.5.2.3/content/Content/bootstrap.rtl.min.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = TransRD.packages.bootstrap._5._2._3.content.Content.bootstrap.rtl.min.css
+build_metadata.AdditionalFiles.TargetPath = packages\bootstrap.5.2.3\content\Content\bootstrap.rtl.min.css
+build_metadata.AdditionalFiles.RelativePath = packages\bootstrap.5.2.3\content\Content\bootstrap.rtl.min.css

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "App Con Api",
+    "Projects": [
+      {
+        "Path": "TransRD.App.csproj",
+        "Action": "Start",
+        "DebugTarget": "Windows Machine"
+      },
+      {
+        "Path": "..\\TransRD.API\\TransRD.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]
