@@ -35,7 +35,7 @@ namespace TransRD.API.Controllers.Usuarios
       TransRDDb._context.Usuario
         .Attach(_usuario);
       TransRDDb._context.SaveChanges();
-
+      //
       return Ok("Updated User!");
     }
   }
