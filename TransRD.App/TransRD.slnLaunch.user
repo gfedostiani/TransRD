@@ -10,7 +10,7 @@
       {
         "Path": "..\\TransRD.API\\TransRD.API.csproj",
         "Action": "Start",
-        "DebugTarget": "https"
+        "DebugTarget": "Profile 1"
       }
     ]
   }

@@ -11,7 +11,7 @@ namespace TransRD.API.Controllers
   public class Register : ControllerBase
   {
     public TransRDDbController TransRDDb = new TransRDDbController();
-
+    [HttpPost]
     public ActionResult Post([FromBody] RegisterData User)
     {
       Usuario? usuario = TransRDDb._context

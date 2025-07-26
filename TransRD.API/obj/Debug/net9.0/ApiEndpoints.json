@@ -35,7 +35,7 @@
     "ContainingType": "TransRD.API.Controllers.Register",
     "Method": "Post",
     "RelativePath": "auth/Register",
-    "HttpMethod": "",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [

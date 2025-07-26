@@ -9,3 +9,4 @@ D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.dl
 D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\refint\TransRD.Infraestructura.dll
 D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.pdb
 D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\ref\TransRD.Infraestructura.dll
+D:\Docs\fedo\TransRD.Infraestructura\obj\Debug\net9.0\TransRD.Infraestructura.sourcelink.json
