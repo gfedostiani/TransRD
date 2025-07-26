@@ -40,7 +40,7 @@
       "background": {
         "commandName": "Project",
         "dotnetRunMessages": true,
-        "launchBrowser": false,
+        "launchBrowser": true,
         "applicationUrl": "https://localhost:7168;http://localhost:5245",
         "launchUrl": "swagger/index.html",
         "environmentVariables": {

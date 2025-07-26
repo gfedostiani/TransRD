@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "TransRD.API.Controllers.Login",
+    "ContainingType": "TransRD.API.Controllers.Auth.Login",
     "Method": "Post",
     "RelativePath": "auth/Login",
     "HttpMethod": "POST",
@@ -16,7 +16,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TransRD.API.Controllers.Me",
+    "ContainingType": "TransRD.API.Controllers.Auth.Me",
     "Method": "Get",
     "RelativePath": "auth/Me",
     "HttpMethod": "GET",
@@ -32,7 +32,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TransRD.API.Controllers.Register",
+    "ContainingType": "TransRD.API.Controllers.Auth.Register",
     "Method": "Post",
     "RelativePath": "auth/Register",
     "HttpMethod": "POST",
@@ -42,6 +42,38 @@
       {
         "Name": "User",
         "Type": "TransRD.Infraestructura.Models.RegisterData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TransRD.API.Controllers.Usuarios.Me",
+    "Method": "Post",
+    "RelativePath": "usuarios/Me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TransRD.API.Controllers.Usuarios.Me",
+    "Method": "Put",
+    "RelativePath": "usuarios/Me",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_usuario",
+        "Type": "TransRD.Infraestructura.Models.Usuario",
         "IsRequired": true
       }
     ],

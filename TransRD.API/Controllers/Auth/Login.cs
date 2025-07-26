@@ -1,4 +1,4 @@
-﻿namespace TransRD.API.Controllers
+﻿namespace TransRD.API.Controllers.Auth
 {
   using Microsoft.AspNetCore.Http.HttpResults;
   using Microsoft.AspNetCore.Mvc;

@@ -13,11 +13,11 @@ using Microsoft.EntityFrameworkCore.Query.Internal;
 using TransRD.Data;
 using Microsoft.EntityFrameworkCore;
 using TransRD.FrontEnd.Controls;
-using TransRD.API.Controllers;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using NuGet.Protocol;
 using System.Net.Http.Json;
+using TransRD.API.Controllers.Auth;
 
 namespace TransRD.ViewModels
 {

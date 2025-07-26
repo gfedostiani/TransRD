@@ -5,12 +5,12 @@ using Microsoft.Maui.Controls;
 using TransRD.Infraestructura.Models;
 using TransRD.Data;
 using TransRD.Views;
-using TransRD.API.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using TransRD.FrontEnd.Controls;
 using System.Net.Http.Json;
 using Microsoft.AspNetCore.Http.HttpResults;
 using NuGet.Protocol;
+using TransRD.API.Controllers.Auth;
 
 namespace TransRD.ViewModels
 {

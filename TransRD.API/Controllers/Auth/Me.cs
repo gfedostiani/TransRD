@@ -5,7 +5,7 @@ using TransRD.Data;
 using TransRD.Infraestructura.Models;
 using Xamarin.Essentials;
 
-namespace TransRD.API.Controllers
+namespace TransRD.API.Controllers.Auth
 {
   [Route("auth/[controller]")]
   [ApiController]

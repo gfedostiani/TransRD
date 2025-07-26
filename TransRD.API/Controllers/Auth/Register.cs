@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using TransRD.APi.Controllers;
 using TransRD.Infraestructura.Models;
 
-namespace TransRD.API.Controllers
+namespace TransRD.API.Controllers.Auth
 {
 
   [Route("auth/[controller]")]
